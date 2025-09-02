@@ -82,12 +82,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  recent_ai_hpc:
+    title: 'Recent Publications (AI, GNNs, HPC)'
+  earlier_ict:
+    title: 'Earlier Publications (ICT & Telecom, 2007–2019; background)'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
