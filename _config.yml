@@ -25,10 +25,10 @@ repository               : "mdindoost/mdindoost.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Mohammad Dindoost"
+  pronouns         : #He/Him"  
+  bio              : "Research Assistant at Bader's Lab(Large-Scale Graph Anaytics Laboratory) - NJIT"
+  location         : "Newark, NJ"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
